@@ -13,10 +13,10 @@ Syntax highlighted code block
 # Vihaan's First CS193 Homework
 # Vihaan Khajanchi
 ## This is 'website'
-### _Hello_ world
-
-- *Hello*
-- _Website_
+### _Hello_ *world*
+## Favorite things about CS-193
+- It is taught by students
+- It teaches us important tools that we will use in our classes
 
 1. Numbered
 2. List
