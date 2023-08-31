@@ -1,5 +1,10 @@
+# Vihaan's First CS193 Homework
 ## Welcome to GitHub Pages
 
+## Favorite things about CS-193
+- It is taught by _students_
+- It teaches us important *tools* that we will use in our *classes*
+  
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,13 +15,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-# Vihaan's First CS193 Homework
+
 # Vihaan Khajanchi
 ## This is 'website'
 ### _Hello_ *world*
-## Favorite things about CS-193
-- It is taught by students
-- It teaches us important tools that we will use in our classes
 
 1. Numbered
 2. List
