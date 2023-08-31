@@ -3,7 +3,7 @@
 
 ## Favorite things about CS-193
 - It is taught by _students_
-- It teaches us important *tools* that we will use in our *classes*
+- It teaches us important **tools** that we will use in our **classes**
   
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
